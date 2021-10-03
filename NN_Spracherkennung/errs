@@ -1,0 +1,2 @@
+gcc -Wall -ansi -pedantic -c fileio.c -o fileio.o
+*** Error code 1
